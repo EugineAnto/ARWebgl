@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="15" size="0.230000 0.230684" />
+    <ImageTarget name="Kick" size="0.230000 0.230684" />
+    <ImageTarget name="Sit" size="0.230000 0.230684" />
+    <ImageTarget name="Nap" size="0.230000 0.230684" />
+    <ImageTarget name="Run" size="0.230000 0.230684" />
+    <ImageTarget name="Skip" size="0.230000 0.230684" />
+    <ImageTarget name="sink" size="0.230000 0.230684" />
+    <ImageTarget name="hum" size="0.230000 0.230684" />
+    <ImageTarget name="hug" size="0.230000 0.230684" />
+    <ImageTarget name="hit" size="0.230000 0.230684" />
+    <ImageTarget name="gig" size="0.230000 0.230684" />
+    <ImageTarget name="Get" size="0.230000 0.230684" />
+    <ImageTarget name="Dig" size="0.230000 0.230684" />
+    <ImageTarget name="Cut" size="0.230000 0.230684" />
+    <ImageTarget name="Beg" size="0.230000 0.230684" />
+    <ImageTarget name="Ask" size="0.230000 0.230684" />
+  </Tracking>
+</QCARConfig>

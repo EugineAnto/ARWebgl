@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Peck" size="0.200000 0.202467" />
+    <ImageTarget name="Pack" size="0.200000 0.202467" />
+    <ImageTarget name="Nest" size="0.200000 0.202467" />
+    <ImageTarget name="Neck" size="0.200000 0.202467" />
+    <ImageTarget name="Nap" size="0.200000 0.202467" />
+    <ImageTarget name="Kit" size="0.200000 0.202467" />
+    <ImageTarget name="kick" size="0.200000 0.202467" />
+    <ImageTarget name="Ink" size="0.200000 0.202467" />
+    <ImageTarget name="In" size="0.200000 0.202467" />
+    <ImageTarget name="Cat" size="0.200000 0.202467" />
+    <ImageTarget name="Cap" size="0.200000 0.202467" />
+    <ImageTarget name="Can" size="0.200000 0.202467" />
+    <ImageTarget name="Ask" size="0.200000 0.202467" />
+    <ImageTarget name="Ant" size="0.200000 0.202467" />
+  </Tracking>
+</QCARConfig>
